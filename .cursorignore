@@ -1,0 +1,25 @@
+# Ignorar archivos de imagen
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.ico
+
+# Ignorar archivos de fuente
+*.eot
+*.ttf
+*.woff
+*.woff2
+*.otf
+
+# Ignorar archivos compilados
+*.min.js
+*.min.css
+
+# Ignorar archivos temporales
+.DS_Store
+Thumbs.db
+
+# Ignorar directorios específicos si es necesario
+# upload/
